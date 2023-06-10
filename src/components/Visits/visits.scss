@@ -1,0 +1,39 @@
+.visitsContainer {
+  padding: 15px;
+  padding-top: 80px;
+}
+
+.datePicker {
+  padding: 1rem 0 1rem 0;
+}
+
+.visits-list {
+  align-items: start;
+  // text-align: left;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: left;
+  align-items: start;
+}
+
+.action-buttons * {
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+}
+
+.icon-buttons .icon {
+  margin-right: 10px;
+}
+
+.visitType {
+  max-width: 220px;
+}
+
+.cds--btn {
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
