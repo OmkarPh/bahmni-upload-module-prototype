@@ -3,14 +3,14 @@
 ## You can try out the react application, by following steps given below
 
 Ensure you've a fairly recent version of NodeJS & NPM installed on your machine, You can verify by these commands
-### `node -v`
-### `npm -v`
 
-Install required dependencies
-### `npm install`
+`node -v`
 
-Install required dependencies
-### `npm start`
+`npm -v`
+
+Install required dependencies -> `npm install`
+
+Run the react app in dev mode -> `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser
